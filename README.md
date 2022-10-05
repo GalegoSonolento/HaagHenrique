@@ -1,4 +1,7 @@
-# HaagHenrique
+# Henrique Haag
+- Atualmente trabalhando com suporte técnico de informática 
+- Cursando Ciência da Computação na Universidade do Vale do Rio dos Sinos
+- Aberto a oportunidades
 
 <div align="center">
   <a href="https://github.com/GalegoSonolento">
